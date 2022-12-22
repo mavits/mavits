@@ -2,4 +2,4 @@
 - 👀 I’m interested in HTML, CSS, JavaScript
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on Front-end
-- 📫 How to reach me (https://www.linkedin.com/in/mviniciusts/)
+- 📫 How to reach me <a href="https://www.linkedin.com/in/mviniciusts/" rel="nofollow">Linkedin</a>
