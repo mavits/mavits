@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Marcos Vincius, Graduado em Ciencias Contabeis;
+- 👀 I’m interested in HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 💞️ I’m looking to collaborate on Front-end
+- 📫 How to reach me (https://www.linkedin.com/in/mviniciusts/)
